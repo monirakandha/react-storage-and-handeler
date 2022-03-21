@@ -1,0 +1,50 @@
+[
+    {
+      "id": "6237fd0ad6b7e10cb3044a83",
+      "balance": "$2,890.35",
+      "price": 317,
+      "eyeColor": "blue",
+      "name": "Della Conley",
+      "gender": "female"
+    },
+    {
+      "id": "6237fd0a41bc4973585afb30",
+      "balance": "$2,232.32",
+      "price": 50,
+      "eyeColor": "brown",
+      "name": "Stefanie Sampson",
+      "gender": "female"
+    },
+    {
+      "id": "6237fd0a46625819ad2931cc",
+      "balance": "$3,221.67",
+      "price": 88,
+      "eyeColor": "green",
+      "name": "Ava Cabrera",
+      "gender": "female"
+    },
+    {
+      "id": "6237fd0a260f6bf60adb53c5",
+      "balance": "$2,624.85",
+      "price": 300,
+      "eyeColor": "blue",
+      "name": "Nicole Miles",
+      "gender": "female"
+    },
+    {
+      "id": "6237fd0a014c4a5179305956",
+      "balance": "$3,566.24",
+      "price": 290,
+      "eyeColor": "blue",
+      "name": "Alexander Townsend",
+      "gender": "male"
+    },
+    {
+      "id": "6237fd0a6910a39f839dec6c",
+      "balance": "$1,238.58",
+      "price": 262,
+      "eyeColor": "green",
+      "name": "Addie Graham",
+      "gender": "female"
+    }
+  ]
