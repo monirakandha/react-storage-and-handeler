@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Cosmetic from '../Cosmetic/Cosmetic';
 
+
 const Cosmetics = () => {
     const [cosmetics , setCosmetics] = useState([]);
     useEffect(()=>{
@@ -9,7 +10,7 @@ const Cosmetics = () => {
         .then(data => setCosmetics(data))
     } , [])
     return (
-        <div>
+        <div >
             <h1>Welcome to my cosmetics store</h1>
            {
                cosmetics.map(cosmetic => <Cosmetic key={cosmetic.id} cosmetic = {cosmetic}></Cosmetic>)
